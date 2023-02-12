@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap");
-@import "./global.css";
+@import "./_global.css";
 @import "./header.css";
 @import "./introducao.css";
 @import "./experiencia.css";
 @import "./formacao.css";
+@import "./footer.css";
